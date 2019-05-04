@@ -24,7 +24,7 @@
             <scope>test</scope>							  			
        </dependency>
   </dependencies>
-  
+  <!-- comment -->
   <build>
    <pluginManagement>
   <plugins> 
