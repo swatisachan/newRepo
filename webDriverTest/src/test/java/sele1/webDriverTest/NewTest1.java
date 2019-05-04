@@ -9,5 +9,6 @@ public class NewTest1 {
   public void f() {
 	  
 	  assertNotEquals("swat", "swat");
+	  //comment
   }
 }
