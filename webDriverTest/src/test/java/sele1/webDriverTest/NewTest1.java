@@ -8,7 +8,7 @@ public class NewTest1 {
   @Test
   public void f() {
 	  
-	  assertNotEquals("swat", "swat");
+	  assertNotEquals("swat", "swat1");
 	  //comment
   }
 }
